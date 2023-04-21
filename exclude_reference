@@ -62,3 +62,9 @@ _I2C_CheckEvent
 _I2C_GenerateSTOP
 _I2C_GenerateSTART
 _I2C_DeInit
+_UART2_GetFlagStatus
+_init_uart2
+_UART2_SendData8
+_UART2_Init
+_UART2_Cmd
+_UART2_DeInit
